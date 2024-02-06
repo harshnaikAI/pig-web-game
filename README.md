@@ -10,7 +10,7 @@ Description - An multiplayer game in which the player who achieves 20 score firs
 
 2. screen shot
 
-   -![pig-game1](https://github.com/harshnaikAI/pig-web-game/assets/124079700/0c2b9d36-9b22-4d54-8f2f-a9be6271b238)
+   - ![pig-game1](https://github.com/harshnaikAI/pig-web-game/assets/124079700/0c2b9d36-9b22-4d54-8f2f-a9be6271b238)
 
    - ![pig-game2](https://github.com/harshnaikAI/pig-web-game/assets/124079700/57d93164-a06d-4fe8-97c9-c09f215eb416)
      
