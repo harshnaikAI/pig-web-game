@@ -16,4 +16,4 @@ Description - An multiplayer game in which the player who achieves 20 score firs
      
 ## Link  
 
-  - [Netlify](https://pig-game-harsh.netlify.app/)
+  - [Netlify URL](https://pig-game-harsh.netlify.app/)
