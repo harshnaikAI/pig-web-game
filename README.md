@@ -7,7 +7,8 @@ Description - An multiplayer game in which the player who achieves 20 score firs
 1. Key features
    - Adaptive to diffrent screen sizes.
    - Changes layout/design when window sizes reaches mobile screen.
-   - Multiplayer game
+   - Multiplayer game.
+   - Technology used- Symatic HTML, CSS3, JS.
      
 
 2. screen shot
